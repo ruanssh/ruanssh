@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=359C9C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Ruan+Pereira;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
- <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruanssh&show_icons=true&count_private=true&hide_border=true&title_color=359C9C&icon_color=359C9C&text_color=c9d1d9&bg_color=0d1117" alt="Ruan Pereira github stats" /> -->
 </div>
 <div align="center"></div>
 <div align="center">
@@ -16,11 +15,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
+ 
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
  </div> 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ruanssh}/count.svg" /></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=359C9C&height=120&section=footer"/>
+
 
