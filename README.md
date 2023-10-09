@@ -1,12 +1,11 @@
 ## Welcome!! \o/
 
 <div>
-  <img align="left" height="160px" src="profile.png" alt="Profile picture">
 
   <h3>Hi there, I'm Ruan:wave:</h3>
 
   I am a full-stack development student with a strong interest in web development. Currently, I am studying software engineering at Fucapi (Foundation for Technological Analysis, Research, and Innovation). My passion for programming has driven me to enhance my skills and knowledge in the development field, and I am excited to further explore this exciting field.
-  <br> <br><br>
+  <br> 
 </div>
 
 
@@ -14,15 +13,6 @@
 - 📚 Currently a graduate student in **Software Engineering** at Fucapi
 - 🌱 And I'm introducing my studies in **Laravel**
 
-
-##
-
-### Stats:
-
-<div style="display: inline;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruanssh&show_icons=true&theme=tokyonight" />
-  <img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanssh&langs_count=10&layout=compact&theme=tokyonight" />
-</div>
 
 ##
 
