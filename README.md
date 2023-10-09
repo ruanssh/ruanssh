@@ -1,25 +1,59 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=359C9C&height=120&section=header"/>
+## Welcome!! \o/
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=359C9C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Ruan+Pereira;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div>
+  <img align="left" height="160px" src="profile.png" alt="Profile picture">
 
-<div align="center">  
+  <h3>Hi there, I'm Ruan:wave:</h3>
+
+  I am a full-stack development student with a strong interest in web development. Currently, I am studying software engineering at Fucapi (Foundation for Technological Analysis, Research, and Innovation). My passion for programming has driven me to enhance my skills and knowledge in the development field, and I am excited to further explore this exciting field.
+  <br>
 </div>
-<div align="center"></div>
-<div align="center">
- 
-### Main skills:
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
-
-### Studying in this moment:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
- 
 
 
- </div> 
+- 👩🏻‍💻 I have a good knowledge of **PHP and MySQL**
+- 📚 Currently a graduate student in **Software Engineering** at Fucapi
+- 🌱 And I'm introducing my studies in **Laravel**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=359C9C&height=120&section=footer"/>
+
+##
+
+### Stats:
+
+<div style="display: inline;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruanssh&show_icons=true&theme=tokyonight" />
+  <img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanssh&langs_count=10&layout=compact&theme=tokyonight" />
+</div>
+
+##
+
+### Languages and tools:
+
+| <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> |  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  | <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> |
+| :--------: | :------: | :-------: |
+| <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> |  |
 
 
+
+
+##
+
+### Profiles:
+
+If you want to contact me, my social networks are here
+
+<a href="https://www.linkedin.com/in/ruanppereira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
