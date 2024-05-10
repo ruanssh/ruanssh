@@ -20,13 +20,12 @@
 
   <div align="center">
       <img alt="php" src="https://img.shields.io/badge/php-00000F?style=for-the-badge&logo=php">
+      <img alt="python" src="https://img.shields.io/badge/python-00000F?style=for-the-badge&logo=python">
+      <img alt="C" src="https://img.shields.io/badge/c-00000F?style=for-the-badge&logo=c">
       <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
       <img alt="css" src="https://img.shields.io/badge/CSS-00000F?style=for-the-badge&logo=css3">
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript">
-      <img alt="C" src="https://img.shields.io/badge/c-00000F?style=for-the-badge&logo=c">
-      <img alt="python" src="https://img.shields.io/badge/python-00000F?style=for-the-badge&logo=python">
       <img alt="Linux" src="https://img.shields.io/badge/linux-00000F?style=for-the-badge&logo=linux">
-      <img alt="Git" src="https://img.shields.io/badge/git-00000F?style=for-the-badge&logo=git">
     </div>
     <hr height="1">
   </div>
