@@ -11,7 +11,6 @@
 
 - 👩🏻‍💻 I have a good knowledge of **PHP and SQL**
 - 📚 Currently a graduate student in **Software Engineering** at Fucapi
-- 🌱 And I'm introducing my studies in **Laravel**
 
 
 ##
