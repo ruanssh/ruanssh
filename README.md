@@ -8,8 +8,7 @@
   <br> 
 </div>
 
-
-- 👩🏻‍💻 I have a good knowledge of **PHP and SQL**
+- 🔭 **Systems Analyst** in Salcomp
 - 📚 Currently a graduate student in **Software Engineering** at Fucapi
 
 
@@ -20,11 +19,11 @@
   <div align="center">
       <img alt="php" src="https://img.shields.io/badge/php-00000F?style=for-the-badge&logo=php">
       <img alt="python" src="https://img.shields.io/badge/python-00000F?style=for-the-badge&logo=python">
-      <img alt="C" src="https://img.shields.io/badge/c-00000F?style=for-the-badge&logo=c">
       <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-      <img alt="css" src="https://img.shields.io/badge/CSS-00000F?style=for-the-badge&logo=css3">
-      <img alt="javascript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript">
+      <img alt="react" src="https://img.shields.io/badge/react.js-00000F?style=for-the-badge&logo=react">
+      <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-00000F?style=for-the-badge&logo=bootstrap">
       <img alt="Linux" src="https://img.shields.io/badge/linux-00000F?style=for-the-badge&logo=linux">
+      <img alt="Dcoker" src="https://img.shields.io/badge/docker-00000F?style=for-the-badge&logo=docker">
     </div>
     <hr height="1">
   </div>
