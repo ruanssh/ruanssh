@@ -8,7 +8,7 @@
   <br> 
 </div>
 
-- 🔭 **Systems Analyst** in Salcomp
+- 🔭 **Full Stack Developer** in Conecthus
 - 📚 Currently a graduate student in **Software Engineering** at Fucapi
 
 
