@@ -8,7 +8,7 @@
   <br> 
 </div>
 
-- 🔭 **Full Stack Developer** in Conecthus
+- 🔭 **Mid Level Software Developer** in Conecthus
 - 📚 Currently a graduate student in **Software Engineering** at Fucapi
 
 
